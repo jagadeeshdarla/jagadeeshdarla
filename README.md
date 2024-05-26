@@ -1,7 +1,7 @@
 👋 Hi, I’m @jagadeeshdarla
 
 👀 About Me
-I am a  graduate with a Bachelor's degree in Computer Science and Engineering, specializing in Data Analytics, from Vellore Institute of Technology, Amaravati, India. I have a strong foundation in data engineering, software development, and cloud computing, with practical experience gained through various projects and internships.
+I am a graduate with a Bachelor's degree in Computer Science and Engineering, specializing in Data Analytics, from Vellore Institute of Technology, Amaravati, India. I have a robust foundation in data engineering, software development, and cloud computing, with extensive hands-on experience through various high-impact projects and professional engagements.
 
 🌱 Currently Learning
 I am currently deepening my knowledge in the following areas:
